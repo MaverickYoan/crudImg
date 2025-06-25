@@ -1,0 +1,11 @@
+{
+  "name": "project-bolt-sb1-21ye7xlu-Full-Featured-CRUD-Application-maj-images",
+  "version": "1.0.0",
+  "description": "A full-featured CRUD application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
